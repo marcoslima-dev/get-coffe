@@ -54,7 +54,7 @@ Apenas se tiver conhecimento ou quiser ir além, poderá criar as páginas resta
 
 ## Cores:
 
-Preto: #0242424<br>
+Preto: #242424<br>
 Amarelo: #FCA60F<br>
 Marrom: #C95E20<br>
 
